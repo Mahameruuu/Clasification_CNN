@@ -4,4 +4,4 @@ a. Orang menggunakan masker
 b. Orang menggunakan masker tidak benar
 c. Orang tidak menggunakan masker
 
-sumber dataset dari kaggle.com
+sumber dataset dari https://www.kaggle.com/
